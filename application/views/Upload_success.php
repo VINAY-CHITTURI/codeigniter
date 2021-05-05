@@ -5,7 +5,7 @@
    </head>
 	
    <body>  
-      <h3>Your file was successfully uploaded!</h3>  
+      <h3>Your file was uploaded!</h3>  
 		
       <ul> 
          <?//phpforeach ($upload_data as $item => $value):?> 
