@@ -36,7 +36,7 @@
    
          </aside>
 		 <!--heading-->
-		 <h1 align="center">my dummy site</h1>
+		 <h1 align="center">my Amazing site</h1>
 		 <!--main content-->
 		 <pre>
              <p align="center"><h2>how to make a website</h2></p>
